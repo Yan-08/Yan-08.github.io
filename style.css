@@ -1,0 +1,20 @@
+body {
+    background-color:cadetblue
+  }
+  
+  div {
+    background-color: rgba(150, 150, 150, 0.8);
+  }
+  h1{
+    color:antiquewhite
+  }
+  h3{
+    color:beige
+  }
+  p {
+    color:midnightblue
+  }
+
+  ol{
+    color:khaki
+  }
